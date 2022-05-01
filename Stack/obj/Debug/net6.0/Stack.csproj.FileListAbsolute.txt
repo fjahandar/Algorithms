@@ -1,0 +1,15 @@
+/Users/farzadjahandar/Desktop/DataStructures/Stack/bin/Debug/net6.0/Stack
+/Users/farzadjahandar/Desktop/DataStructures/Stack/bin/Debug/net6.0/Stack.deps.json
+/Users/farzadjahandar/Desktop/DataStructures/Stack/bin/Debug/net6.0/Stack.runtimeconfig.json
+/Users/farzadjahandar/Desktop/DataStructures/Stack/bin/Debug/net6.0/Stack.dll
+/Users/farzadjahandar/Desktop/DataStructures/Stack/bin/Debug/net6.0/Stack.pdb
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.csproj.AssemblyReference.cache
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.AssemblyInfoInputs.cache
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.AssemblyInfo.cs
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.csproj.CoreCompileInputs.cache
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.dll
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/refint/Stack.dll
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.pdb
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/Stack.genruntimeconfig.cache
+/Users/farzadjahandar/Desktop/DataStructures/Stack/obj/Debug/net6.0/ref/Stack.dll
